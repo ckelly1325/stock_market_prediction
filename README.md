@@ -3,12 +3,10 @@ This is my graduate capstone research project, from the spring 2021 semester. Th
 
 ## Table of Contents
 1. parse_twitter_stream.ipynb - contains the code to parse the Twitter data that was downloaded from archive.org, filter to relevant and potentially relevant tweets, and save this new dataset.
+2. finance_twitter_exploration_cleaning_sentiment.ipynb - code for the basic data exploration that was done, the cleaning/preprocessing, and performing the sentiment analysis.
 
 Coming soon:
-2. Exploring
-3. Cleaning
-4. Performing sentiment analysis
-5. Classification
+Classification/results
 
 ## Contact
 If you have questions or suggestions, please feel free to email me at ckelly1325@gmail.com.
